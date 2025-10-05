@@ -1,11 +1,18 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f0f004;
+    background-color: #030303;
     margin: 0;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+}
+
+.title {
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 .container {
